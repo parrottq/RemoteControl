@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Remote Control</string>
+    <string name="default_speed">128</string>
+</resources>
