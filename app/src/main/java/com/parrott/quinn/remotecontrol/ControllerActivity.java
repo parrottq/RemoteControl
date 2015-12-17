@@ -15,7 +15,7 @@ public class ControllerActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_controller);
 
-        textView = (TextView) findViewById(R.id.speed);
+        //textView = (TextView) findViewById(R.id.speed);
     }
 
     @Override
